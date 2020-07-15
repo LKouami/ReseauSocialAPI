@@ -1,0 +1,12 @@
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Domaine\bin\Debug\netcoreapp3.1\ReseauSocial.Domaine.deps.json
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Domaine\bin\Debug\netcoreapp3.1\ReseauSocial.Domaine.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Domaine\obj\Debug\netcoreapp3.1\ReseauSocial.Domaine.csprojAssemblyReference.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Domaine\obj\Debug\netcoreapp3.1\ReseauSocial.Domaine.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Domaine\obj\Debug\netcoreapp3.1\ReseauSocial.Domaine.AssemblyInfo.cs
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Domaine\bin\Debug\netcoreapp3.1\ReseauSocial.Domaine.runtimeconfig.json
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Domaine\bin\Debug\netcoreapp3.1\ReseauSocial.Domaine.runtimeconfig.dev.json
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Domaine\bin\Debug\netcoreapp3.1\ReseauSocial.Domaine.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Domaine\obj\Debug\netcoreapp3.1\ReseauSocial.Domaine.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Domaine\obj\Debug\netcoreapp3.1\ReseauSocial.Domaine.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Domaine\obj\Debug\netcoreapp3.1\ReseauSocial.Domaine.genruntimeconfig.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Domaine\obj\Debug\netcoreapp3.1\ReseauSocial.Domaine.csproj.CoreCompileInputs.cache

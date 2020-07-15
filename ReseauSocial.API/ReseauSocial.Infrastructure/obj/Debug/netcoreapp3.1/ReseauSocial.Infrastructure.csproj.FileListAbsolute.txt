@@ -1,0 +1,9 @@
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Infrastructure\bin\Debug\netcoreapp3.1\ReseauSocial.Infrastructure.deps.json
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Infrastructure\bin\Debug\netcoreapp3.1\ReseauSocial.Infrastructure.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Infrastructure\bin\Debug\netcoreapp3.1\ReseauSocial.Infrastructure.pdb
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Infrastructure\obj\Debug\netcoreapp3.1\ReseauSocial.Infrastructure.csprojAssemblyReference.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Infrastructure\obj\Debug\netcoreapp3.1\ReseauSocial.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Infrastructure\obj\Debug\netcoreapp3.1\ReseauSocial.Infrastructure.AssemblyInfo.cs
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Infrastructure\obj\Debug\netcoreapp3.1\ReseauSocial.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Infrastructure\obj\Debug\netcoreapp3.1\ReseauSocial.Infrastructure.dll
+C:\Users\acer\Documents\Programmation\ASP CORE\ReseauSocial.API\ReseauSocial.Infrastructure\obj\Debug\netcoreapp3.1\ReseauSocial.Infrastructure.pdb
